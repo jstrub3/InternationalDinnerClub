@@ -1,0 +1,8 @@
+README file for InternationalDinnerClub App
+
+Author: Joseph Strubhart
+
+##Tables needed 
+Genres: name, can_cook, selected_by, flag? 
+
+Participants: name, can_cook, address, phone, email
